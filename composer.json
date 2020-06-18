@@ -1,7 +1,7 @@
 {
   "name": "magium/new-configuration-manager",
   "replace": {
-    "magium/configuration-manager": "*"
+    "magium/configuration-manager": "^1.2.4"
   },
   "description": "Provides a generic plugable configuration management interface similar to Magento",
   "minimum-stability": "stable",
