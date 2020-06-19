@@ -1,5 +1,5 @@
 {
-  "name": "magium/new-configuration-manager",
+  "name": "magium/active-directory-configuration-manager",
   "replace": {
     "magium/configuration-manager": "^1.2.4"
   },
